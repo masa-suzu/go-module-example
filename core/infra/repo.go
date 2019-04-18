@@ -2,11 +2,11 @@ package infra
 
 import (
 	"fmt"
-	"github.com/masa-suzu/myservice/core/domain"
+
+	"github.com/masa-suzu/go-module-example/core/domain"
 )
 
 type Db struct {
-
 }
 
 func (db *Db) Save(u domain.User) {
