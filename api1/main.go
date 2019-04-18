@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/masa-suzu/myservice/core/domain"
-	"github.com/masa-suzu/myservice/core/infra"
+	"github.com/masa-suzu/go-module-example/core/domain"
+	"github.com/masa-suzu/go-module-example/core/infra"
 )
 
 func main() {
